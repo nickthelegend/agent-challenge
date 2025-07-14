@@ -29,7 +29,9 @@
     "@mastra/memory": "^0.10.3",
     "dotenv": "^16.5.0",
     "ollama-ai-provider": "^1.2.0",
-    "zod": "^3.25.67"
+    "zod": "^3.25.67",
+    "axios": "^1.6.0",
+    "node-cron": "^3.0.3"
   },
   "devDependencies": {
     "@biomejs/biome": "2.0.4",
